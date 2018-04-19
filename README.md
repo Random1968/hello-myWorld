@@ -1,2 +1,4 @@
 # hello-myWorld
-My World repository
+Hi Humans!
+
+I am here to make my Git world. 
